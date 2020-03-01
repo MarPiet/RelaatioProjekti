@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/marpiet.github.io/RelaatioProjekti/static/css/main.d7a00efc.chunk.css",
-    "main.js": "/marpiet.github.io/RelaatioProjekti/static/js/main.e3c53c8f.chunk.js",
-    "main.js.map": "/marpiet.github.io/RelaatioProjekti/static/js/main.e3c53c8f.chunk.js.map",
-    "runtime-main.js": "/marpiet.github.io/RelaatioProjekti/static/js/runtime-main.7358ac9d.js",
-    "runtime-main.js.map": "/marpiet.github.io/RelaatioProjekti/static/js/runtime-main.7358ac9d.js.map",
-    "static/js/2.06be6c06.chunk.js": "/marpiet.github.io/RelaatioProjekti/static/js/2.06be6c06.chunk.js",
-    "static/js/2.06be6c06.chunk.js.map": "/marpiet.github.io/RelaatioProjekti/static/js/2.06be6c06.chunk.js.map",
-    "index.html": "/marpiet.github.io/RelaatioProjekti/index.html",
-    "precache-manifest.7a78b4d4fe6f65a156d3d18dbbe11c32.js": "/marpiet.github.io/RelaatioProjekti/precache-manifest.7a78b4d4fe6f65a156d3d18dbbe11c32.js",
-    "service-worker.js": "/marpiet.github.io/RelaatioProjekti/service-worker.js",
-    "static/css/main.d7a00efc.chunk.css.map": "/marpiet.github.io/RelaatioProjekti/static/css/main.d7a00efc.chunk.css.map",
-    "static/js/2.06be6c06.chunk.js.LICENSE.txt": "/marpiet.github.io/RelaatioProjekti/static/js/2.06be6c06.chunk.js.LICENSE.txt",
-    "static/media/treble.jpg": "/marpiet.github.io/RelaatioProjekti/static/media/treble.ba38a46a.jpg"
+    "main.css": "/RelaatioProjekti/static/css/main.d7a00efc.chunk.css",
+    "main.js": "/RelaatioProjekti/static/js/main.e3c53c8f.chunk.js",
+    "main.js.map": "/RelaatioProjekti/static/js/main.e3c53c8f.chunk.js.map",
+    "runtime-main.js": "/RelaatioProjekti/static/js/runtime-main.345b8c2b.js",
+    "runtime-main.js.map": "/RelaatioProjekti/static/js/runtime-main.345b8c2b.js.map",
+    "static/js/2.06be6c06.chunk.js": "/RelaatioProjekti/static/js/2.06be6c06.chunk.js",
+    "static/js/2.06be6c06.chunk.js.map": "/RelaatioProjekti/static/js/2.06be6c06.chunk.js.map",
+    "index.html": "/RelaatioProjekti/index.html",
+    "precache-manifest.2a7117a8e14e34334fff1f07ec161679.js": "/RelaatioProjekti/precache-manifest.2a7117a8e14e34334fff1f07ec161679.js",
+    "service-worker.js": "/RelaatioProjekti/service-worker.js",
+    "static/css/main.d7a00efc.chunk.css.map": "/RelaatioProjekti/static/css/main.d7a00efc.chunk.css.map",
+    "static/js/2.06be6c06.chunk.js.LICENSE.txt": "/RelaatioProjekti/static/js/2.06be6c06.chunk.js.LICENSE.txt",
+    "static/media/treble.jpg": "/RelaatioProjekti/static/media/treble.ba38a46a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7358ac9d.js",
+    "static/js/runtime-main.345b8c2b.js",
     "static/js/2.06be6c06.chunk.js",
     "static/css/main.d7a00efc.chunk.css",
     "static/js/main.e3c53c8f.chunk.js"
