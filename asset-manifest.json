@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/marpiet/RelaatioProjekti.git/static/css/main.d7a00efc.chunk.css",
-    "main.js": "/marpiet/RelaatioProjekti.git/static/js/main.e3c53c8f.chunk.js",
-    "main.js.map": "/marpiet/RelaatioProjekti.git/static/js/main.e3c53c8f.chunk.js.map",
-    "runtime-main.js": "/marpiet/RelaatioProjekti.git/static/js/runtime-main.4921a537.js",
-    "runtime-main.js.map": "/marpiet/RelaatioProjekti.git/static/js/runtime-main.4921a537.js.map",
-    "static/js/2.06be6c06.chunk.js": "/marpiet/RelaatioProjekti.git/static/js/2.06be6c06.chunk.js",
-    "static/js/2.06be6c06.chunk.js.map": "/marpiet/RelaatioProjekti.git/static/js/2.06be6c06.chunk.js.map",
-    "index.html": "/marpiet/RelaatioProjekti.git/index.html",
-    "precache-manifest.6ececd71c4990a2c369e49a9091504d5.js": "/marpiet/RelaatioProjekti.git/precache-manifest.6ececd71c4990a2c369e49a9091504d5.js",
-    "service-worker.js": "/marpiet/RelaatioProjekti.git/service-worker.js",
-    "static/css/main.d7a00efc.chunk.css.map": "/marpiet/RelaatioProjekti.git/static/css/main.d7a00efc.chunk.css.map",
-    "static/js/2.06be6c06.chunk.js.LICENSE.txt": "/marpiet/RelaatioProjekti.git/static/js/2.06be6c06.chunk.js.LICENSE.txt",
-    "static/media/treble.jpg": "/marpiet/RelaatioProjekti.git/static/media/treble.ba38a46a.jpg"
+    "main.css": "/marpiet.github.io/RelaatioProjekti/static/css/main.d7a00efc.chunk.css",
+    "main.js": "/marpiet.github.io/RelaatioProjekti/static/js/main.e3c53c8f.chunk.js",
+    "main.js.map": "/marpiet.github.io/RelaatioProjekti/static/js/main.e3c53c8f.chunk.js.map",
+    "runtime-main.js": "/marpiet.github.io/RelaatioProjekti/static/js/runtime-main.7358ac9d.js",
+    "runtime-main.js.map": "/marpiet.github.io/RelaatioProjekti/static/js/runtime-main.7358ac9d.js.map",
+    "static/js/2.06be6c06.chunk.js": "/marpiet.github.io/RelaatioProjekti/static/js/2.06be6c06.chunk.js",
+    "static/js/2.06be6c06.chunk.js.map": "/marpiet.github.io/RelaatioProjekti/static/js/2.06be6c06.chunk.js.map",
+    "index.html": "/marpiet.github.io/RelaatioProjekti/index.html",
+    "precache-manifest.7a78b4d4fe6f65a156d3d18dbbe11c32.js": "/marpiet.github.io/RelaatioProjekti/precache-manifest.7a78b4d4fe6f65a156d3d18dbbe11c32.js",
+    "service-worker.js": "/marpiet.github.io/RelaatioProjekti/service-worker.js",
+    "static/css/main.d7a00efc.chunk.css.map": "/marpiet.github.io/RelaatioProjekti/static/css/main.d7a00efc.chunk.css.map",
+    "static/js/2.06be6c06.chunk.js.LICENSE.txt": "/marpiet.github.io/RelaatioProjekti/static/js/2.06be6c06.chunk.js.LICENSE.txt",
+    "static/media/treble.jpg": "/marpiet.github.io/RelaatioProjekti/static/media/treble.ba38a46a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4921a537.js",
+    "static/js/runtime-main.7358ac9d.js",
     "static/js/2.06be6c06.chunk.js",
     "static/css/main.d7a00efc.chunk.css",
     "static/js/main.e3c53c8f.chunk.js"
