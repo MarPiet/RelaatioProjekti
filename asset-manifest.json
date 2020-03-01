@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MarPiet/RelaatioProjekti.git/static/css/main.d7a00efc.chunk.css",
+    "main.js": "/MarPiet/RelaatioProjekti.git/static/js/main.e3c53c8f.chunk.js",
+    "main.js.map": "/MarPiet/RelaatioProjekti.git/static/js/main.e3c53c8f.chunk.js.map",
+    "runtime-main.js": "/MarPiet/RelaatioProjekti.git/static/js/runtime-main.9c60cb9f.js",
+    "runtime-main.js.map": "/MarPiet/RelaatioProjekti.git/static/js/runtime-main.9c60cb9f.js.map",
+    "static/js/2.06be6c06.chunk.js": "/MarPiet/RelaatioProjekti.git/static/js/2.06be6c06.chunk.js",
+    "static/js/2.06be6c06.chunk.js.map": "/MarPiet/RelaatioProjekti.git/static/js/2.06be6c06.chunk.js.map",
+    "index.html": "/MarPiet/RelaatioProjekti.git/index.html",
+    "precache-manifest.c99752c6c0de4ea6592afcd726a8b3d9.js": "/MarPiet/RelaatioProjekti.git/precache-manifest.c99752c6c0de4ea6592afcd726a8b3d9.js",
+    "service-worker.js": "/MarPiet/RelaatioProjekti.git/service-worker.js",
+    "static/css/main.d7a00efc.chunk.css.map": "/MarPiet/RelaatioProjekti.git/static/css/main.d7a00efc.chunk.css.map",
+    "static/js/2.06be6c06.chunk.js.LICENSE.txt": "/MarPiet/RelaatioProjekti.git/static/js/2.06be6c06.chunk.js.LICENSE.txt",
+    "static/media/treble.jpg": "/MarPiet/RelaatioProjekti.git/static/media/treble.ba38a46a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c60cb9f.js",
+    "static/js/2.06be6c06.chunk.js",
+    "static/css/main.d7a00efc.chunk.css",
+    "static/js/main.e3c53c8f.chunk.js"
+  ]
+}
