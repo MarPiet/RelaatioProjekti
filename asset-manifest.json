@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/RelaatioProjekti/static/css/main.d7a00efc.chunk.css",
-    "main.js": "/RelaatioProjekti/static/js/main.ab5b5d3e.chunk.js",
-    "main.js.map": "/RelaatioProjekti/static/js/main.ab5b5d3e.chunk.js.map",
+    "main.js": "/RelaatioProjekti/static/js/main.575148ec.chunk.js",
+    "main.js.map": "/RelaatioProjekti/static/js/main.575148ec.chunk.js.map",
     "runtime-main.js": "/RelaatioProjekti/static/js/runtime-main.345b8c2b.js",
     "runtime-main.js.map": "/RelaatioProjekti/static/js/runtime-main.345b8c2b.js.map",
     "static/js/2.06be6c06.chunk.js": "/RelaatioProjekti/static/js/2.06be6c06.chunk.js",
     "static/js/2.06be6c06.chunk.js.map": "/RelaatioProjekti/static/js/2.06be6c06.chunk.js.map",
     "index.html": "/RelaatioProjekti/index.html",
-    "precache-manifest.0ecf8ac7b40918c5678d1a9c7e9a6cdc.js": "/RelaatioProjekti/precache-manifest.0ecf8ac7b40918c5678d1a9c7e9a6cdc.js",
+    "precache-manifest.5e766b993ece5640aee8ee8bdc00ddac.js": "/RelaatioProjekti/precache-manifest.5e766b993ece5640aee8ee8bdc00ddac.js",
     "service-worker.js": "/RelaatioProjekti/service-worker.js",
     "static/css/main.d7a00efc.chunk.css.map": "/RelaatioProjekti/static/css/main.d7a00efc.chunk.css.map",
     "static/js/2.06be6c06.chunk.js.LICENSE.txt": "/RelaatioProjekti/static/js/2.06be6c06.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.345b8c2b.js",
     "static/js/2.06be6c06.chunk.js",
     "static/css/main.d7a00efc.chunk.css",
-    "static/js/main.ab5b5d3e.chunk.js"
+    "static/js/main.575148ec.chunk.js"
   ]
 }
